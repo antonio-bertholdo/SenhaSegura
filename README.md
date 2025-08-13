@@ -1,2 +1,2 @@
 # SenhaSegura
-Aplicação com o objetivo de criar senhas memorizáveis seguras, analisar a "força" de uma senha e verificar se ela está presente em algum vazamento de dados. 
+Aplicação para gerar senhas seguras, avaliar a força e verificar se já foram expostas em vazamentos de dados, usando boas práticas de segurança.
